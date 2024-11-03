@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://img.freepik.com/free-vector/paper-spring-leaves-border-background-paper-cut-style_333792-48.jpg?t=st=1730594533~exp=1730598133~hmac=f08ed82133c4b87389e203994156ea6b17a452a9cd0653cb162ab53b75d67118&w=1380");
+    background-size: 100%;
+    backdrop-filter: blur(8px) brightness(90%);
+}
